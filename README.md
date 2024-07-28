@@ -10,7 +10,7 @@ Machine Learning: Implements machine learning algorithms to classify gestures ac
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/deaf-sign-language-detection.git
+git clone https://github.com/raginigupta90/deaf-sign-language-detection.git
 cd deaf-sign-language-detection
 
 Install the required dependencies:
