@@ -28,23 +28,44 @@ Follow the on-screen instructions to perform gestures and see the detected outpu
 Project Structure
 
 deaf-sign-language-detection/
+
 ├── README.md
+
+
 ├── requirements.txt
+
+
 ├── main.py
+
+
 ├── gesture_recognition.py
+
 ├── utils.py
+
 ├── models/
+
 │   └── asl_model.h5
+
 ├── data/
+
 │   ├── train/
+
 │   └── test/
+
 └── images/
+
     └── examples/
+    
 main.py: The main script to run the application.
+
 gesture_recognition.py: Contains the gesture recognition logic using OpenCV.
+
 utils.py: Utility functions for preprocessing and data handling.
+
 models/: Directory for storing trained machine learning models.
+
 data/: Directory for training and testing datasets.
+
 images/: Contains example images used in the project.
 
 Contributing
